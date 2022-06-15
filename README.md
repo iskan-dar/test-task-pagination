@@ -5,6 +5,6 @@ If you have any questions regarding the code, please do not hesitate to message 
 
 #### Checkout my projects here
 
-`Crossy Road CV` https://iskan-dar.github.io/crossy-road-threejs-reactjs/
-`Fun Ai` https://fun-ai.herokuapp.com/
-`Galactic miniatures` https://github.com/iskan-dar/galactic_miniatures
+- `Crossy Road CV` https://iskan-dar.github.io/crossy-road-threejs-reactjs/
+- `Fun Ai` https://fun-ai.herokuapp.com/
+- `Galactic miniatures` https://github.com/iskan-dar/galactic_miniatures
