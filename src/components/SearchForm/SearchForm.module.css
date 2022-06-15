@@ -1,0 +1,15 @@
+.searchForm {
+    width : 100%;
+    display : flex;
+    align-items : center;
+    justify-content : space-between;
+}
+
+.searchForm__input {
+    width: 85%;
+
+}
+
+.searchForm__button {
+    width: 10%;
+}

@@ -1,0 +1,9 @@
+.currentPagePostsList {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.currentPagePostsList__semanticH6 {
+    display: none;
+}

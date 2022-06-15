@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 132, 255, 0.898);
+}
+
+.header a {
+    text-decoration: none;
+}
